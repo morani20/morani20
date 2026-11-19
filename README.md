@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="./banner.jpg" alt="Mohamed Profile Banner" width="100%" />
+  <img src="./banner.png" alt="Mohamed Profile Banner" width="100%" />
 </p>
 
 <br/>
@@ -20,7 +20,13 @@
 
 ---
 
-### 📌 Featured Work
+### 📌 Featured Projects
 
-* **[AssetFlow](https://github.com/morani20/AssetFlow-Complete-Project)** — Smart asset management and critical facility maintenance system.
-* **Data Science & ML Projects** — Predictive modeling, data analysis, and machine learning pipelines *(coming soon)*
+#### 📊 Data Science & Data Analysis
+* 📉 **[Sales-Insights-Analysis](https://github.com/morani20/Sales-Insights-Analysis)** — Exploratory Data Analysis (EDA), data cleaning, and business intelligence dashboards using Python, SQL, and Power BI / Tableau.
+* 🧠 **[Predictive-Modeling-Attrition](https://github.com/morani20/Predictive-Modeling-Attrition)** — Machine learning pipeline using Scikit-Learn to predict customer churn / employee attrition with comprehensive feature engineering.
+* 📈 **[COVID19-Global-Trends](https://github.com/morani20/COVID19-Global-Trends)** — Historical data visualization and statistical analysis tracking global public health trends using Pandas & Seaborn.
+* 🏠 **[Real-Estate-Price-Prediction](https://github.com/morani20/Real-Estate-Price-Prediction)** — Regression modeling and feature engineering on real estate dataset to estimate house prices using Python & Jupyter.
+
+#### 💻 Web Development & Systems
+* 🛠️ **[AssetFlow](https://github.com/morani20/AssetFlow-Complete-Project)** — Smart asset management and critical facility maintenance system built with modern interactive UI.
