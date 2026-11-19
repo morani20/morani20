@@ -22,11 +22,14 @@
 
 ### 📌 Featured Projects
 
-#### 📊 Data Science & Data Analysis
-* 📉 **[Sales-Insights-Analysis](https://github.com/morani20/Sales-Insights-Analysis)** — Exploratory Data Analysis (EDA), data cleaning, and business intelligence dashboards using Python, SQL, and Power BI / Tableau.
-* 🧠 **[Predictive-Modeling-Attrition](https://github.com/morani20/Predictive-Modeling-Attrition)** — Machine learning pipeline using Scikit-Learn to predict customer churn / employee attrition with comprehensive feature engineering.
-* 📈 **[COVID19-Global-Trends](https://github.com/morani20/COVID19-Global-Trends)** — Historical data visualization and statistical analysis tracking global public health trends using Pandas & Seaborn.
-* 🏠 **[Real-Estate-Price-Prediction](https://github.com/morani20/Real-Estate-Price-Prediction)** — Regression modeling and feature engineering on real estate dataset to estimate house prices using Python & Jupyter.
+#### 📊 Data Science & Analytics
+* 🛒 **[E-Commerce Analytics Hub](https://github.com/morani20/ecommerce-analytics-hub-the-final-)** — Production-grade e-commerce data analytics pipeline & interactive Streamlit dashboard featuring data cleaning, EDA, Welch's t-test hypothesis testing, and RFM K-Means customer segmentation.
+* 🎓 **[E-Learning Platform Integrated Analytics](https://github.com/morani20/Task_23_Elearning_Platform_Integrated_Analytics.)** — End-to-end data science project combining predictive Linear Regression forecasting and RFM K-Means student segmentation using Python, Scikit-Learn, and WeasyPrint.
 
-#### 💻 Web Development & Systems
-* 🛠️ **[AssetFlow](https://github.com/morani20/AssetFlow-Complete-Project)** — Smart asset management and critical facility maintenance system built with modern interactive UI.
+#### 💻 Full-Stack & Web Systems
+* 🛠️ **[AssetFlow](https://github.com/morani20/AssetFlow-Complete-Project)** — Smart asset management and critical facility maintenance web platform built with React, TypeScript, Vite & Tailwind CSS.
+* 🍔 **[Acme Microservices Platform](https://github.com/morani20/acme-microservices-platform)** — Full-stack microservices food ordering platform built with Spring.
+
+#### 🔐 Security & Backend Engineering (Python)
+* 🔑 **[RSA Digital Signature](https://github.com/morani20/SDEV4303-RSA-DigitalSignature.)** — Cryptographic implementation of RSA digital signatures in Python.
+* 🛡️ **[RBAC System](https://github.com/morani20/rbac_system.py)** & **[Password Hashing Auth](https://github.com/morani20/password-hashing-auth)** — Role-based access control and secure authentication modules built with Python.
